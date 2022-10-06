@@ -1,16 +1,26 @@
-### Hi there 👋
+# Welcome to my profile! 👋🏻 
 
-<!--
-**Merdin/Merdin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Merdin, a passionate Software Engineer. 
 
-Here are some ideas to get you started:
+Writing code is one of the main things I like to do. Continously I try to look for bigger challenges because I love to solve problems. I don't wait to get work, I'm looking for work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like to work with my team, but do not mind working individually. Something I noticed is that I like to help and teach others how to become a better engineer and I don't mind to have a role like that.
+
+Most of my interest goes to the Apple ecosystem. Building apps for iOS, iPadOS, MacOS and more is something I never get tired of. The type of projects I like are startups and/or internal projects (with a social purpose). Even though my preference is the Apple Ecosystem, I also like to learn new technologies, for example Flutter, web, desktop, IoT and more.
+
+My time is worth more than gold and that is why I prefer to work remotely so that I can use my time efficiently.
+
+---
+
+## Professional skills:
+- 🗣 I can communicate when needed.
+- 👔 I have natural responsibility.
+- 🤝 I can work within a team or individually.
+
+---
+
+- 👨‍💻 I’m currently working on a startup.
+- 📚 I’m following the [iOS Lead Essentials program](https://iosacademy.essentialdeveloper.com/p/ios-lead-essentials/).
+- 📫 How to reach me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/merdin/)
