@@ -13,7 +13,7 @@ My time is worth more than gold and that is why I prefer to work remotely so tha
 ---
 
 ## Professional skills:
-- 🗣 I can communicate when needed.
+- 🗣 I communicate when needed.
 - 👔 I have natural responsibility.
 - 🤝 I can work within a team or individually.
 
