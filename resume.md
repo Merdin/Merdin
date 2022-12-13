@@ -47,3 +47,18 @@ September 2019 - June 2023
 ---
 #### System Manager @ Deltion College (Zwolle, The Netherlands)
 September 2016 - June 2019
+
+
+## Skills
+### Technical skills
+Swift, SwiftUI, xCode, Clean Swift, Alamofire, PromiseKit, UIKit, Charles Proxy, Sherlock, Applivery, Testflight <br>
+Flutter <br>
+PHP, NestJS, TypeScript, React, Next.js, Javascript, Laravel, GoHugo, Bash, jQuery, TailwindCSS, (Laravel) Livewire, Python, C#, .NET Core, Java, Slim v2 Framework, Symfony, PHPUnit <br>
+MySQL/MariaDB, Firebase, Realm <br>
+Git, AWS Cognito, NX Workspace, Heroku, Docker <br>
+Azure DevOps, PHPStorm, Visual Studio Code, Jira, GitHub, Azure DevOps, Bitrise, Android Studio <br>
+Abstract, Sketch, Figma <br>
+
+### Professional skills
+#### Languages
+Dutch, English, Bosnian, Arabic
