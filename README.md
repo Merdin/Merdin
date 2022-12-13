@@ -6,7 +6,7 @@ Writing code is one of the main things I like to do. Continously I try to look f
 
 I like to work with my team, but do not mind working individually. Something I noticed is that I like to help and teach others how to become a better engineer and I don't mind to have a role like that.
 
-Most of my interest goes to the Apple ecosystem. Building apps for iOS, iPadOS, MacOS and more is something I never get tired of. The type of projects I like are startups and/or internal projects (with a social purpose). Even though my preference is the Apple Ecosystem, I also like to learn new technologies, for example Flutter, web, desktop, IoT and more.
+Most of my interest goes to the Apple ecosystem. Building apps for iOS, iPadOS, MacOS and more is something I never get tired of. The type of projects I like are startups and/or in-house projects (projects with a social purpose is a +). Even though my preference is the Apple Ecosystem, I also like to learn new technologies, for example Flutter, React Native, Laravel, web development, IoT and more.
 
 My time is worth more than gold and that is why I prefer to work remotely so that I can use my time efficiently.
 
