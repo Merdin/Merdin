@@ -21,8 +21,4 @@ My time is worth more than gold and that is why I prefer to work remotely so tha
 
 - 👨‍💻 I’m currently working on a startup.
 - 📚 I’m following the [iOS Lead Essentials program](https://iosacademy.essentialdeveloper.com/p/ios-lead-essentials/).
-- 📫 How to reach me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/merdin/)
-
-<a href="https://twitch.tv/merdin"><img src="https://img.shields.io/twitch/status/Merdin?label=Twitch" alt="Twitch"></a>
+- 📫 Watch me code: <a href="https://twitch.tv/merdin"><img src="https://img.shields.io/twitch/status/Merdin?label=Twitch" alt="Twitch"></a>
