@@ -24,3 +24,5 @@ My time is worth more than gold and that is why I prefer to work remotely so tha
 - 📫 How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/merdin/)
+
+<a href="https://twitch.tv/merdin"><img src="https://img.shields.io/twitch/status/Merdin?label=Twitch" alt="Twitch"></a>
