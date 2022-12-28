@@ -5,11 +5,6 @@ Located in The Netherlands
 ## Experience
 #### iOS Software Engineer @ [iotspot](https://www.iotspot.co/) ('s-Hertogenbosch, The Netherlands)<br>
 ##### January 2023 - _now_ <br>
-At WARP I spend most of the time designing and developing the server-side application written with TypeScript/NestJS for a start-up project. I connected the server-side application with AWS Cognito.
-
-Besides that I worked on the dashboard project build with NextJS, React, Javascript. 
-
-99% of the time I worked remotely.
 
 ---
 
@@ -31,18 +26,14 @@ While working for Move4Mobile I developed native apps with Swift and I did this 
 
 #### Projects
 - [Timing](https://apps.apple.com/nl/app/timing-app/id783555866)
-
 - [Wildkamp](https://apps.apple.com/al/app/wildkamp/id1563891212)
-
 - Stadsparkeren
 
 ---
 
 #### PHP Software Engineer @ [Medido](https://medido.com/en/) (Zwolle, The Netherlands)
 ##### June 2019 - May 2021<br>
-For Medido I maintained a portal where I learned to work with the framework Symfony/Slim, MVC, PHPUnit tests and MySQL/MariaDB. I developed new features and bug fixes
-
-[Project](http://portal.medido.com)
+For Medido I maintained a [portal](http://portal.medido.com) where I learned to work with the framework Symfony/Slim, MVC, PHPUnit tests and MySQL/MariaDB. I developed new features and bug fixes
 
 
 ## Internships
