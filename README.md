@@ -1,10 +1,6 @@
 # Welcome to my profile! 👋🏻 
 
-My name is Merdin, a passionate Software Engineer. 
+My name is Merdin, a passionate Software Engineer. 👨‍💻 I’m currently working as an iOS Software Engineer @ [iotspot](http://iotspot.co). 📚 To improve myself as a Software Engineer I’m following the [iOS Lead Essentials program](https://iosacademy.essentialdeveloper.com/p/ios-lead-essentials/).
 
-### [Resume](https://github.com/Merdin/Merdin/blob/master/resume.md)
+### [My resume](https://github.com/Merdin/Merdin/blob/master/resume.md)
 
-
----
-- 👨‍💻 I’m currently working as an iOS Software Engineer.
-- 📚 I’m following the [iOS Lead Essentials program](https://iosacademy.essentialdeveloper.com/p/ios-lead-essentials/).
