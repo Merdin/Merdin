@@ -3,12 +3,12 @@ Software Engineer<br>
 Located in The Netherlands
 
 ## Experience
-#### iOS Software Engineer @ [iotspot](https://www.iotspot.co/) ('s-Hertogenbosch, The Netherlands)<br>
+#### iOS Software Engineer @ [iotspot](https://www.iotspot.co/) <br>
 ##### January 2023 - _now_ <br>
 
 ---
 
-#### Software Engineer @ [WeAreReasonablePeople](https://wearereasonablepeople.com/) (Rotterdam, The Netherlands)<br>
+#### Software Engineer @ [WeAreReasonablePeople](https://wearereasonablepeople.com/) <br>
 ##### September 2022 - December 2022<br>
 At WARP I spend most of the time designing and developing the server-side application written with TypeScript/NestJS for a start-up project. I connected the server-side application with AWS Cognito.
 
@@ -18,7 +18,7 @@ Besides that I worked on the dashboard project build with NextJS, React, Javascr
 
 ---
 
-#### iOS Software Engineer @ [Move4Mobile](http://move4mobile.com/) (Zwolle, The Netherlands)
+#### iOS Software Engineer @ [Move4Mobile](http://move4mobile.com/)
 ##### September 2021 - May 2022<br>
 While working for Move4Mobile I developed native apps with Swift and I did this by maintaining 3 production apps. I shifted between the 2 apps every month and managed to deliver new features, bugfixes and ideas for the apps by myself. 
 
@@ -31,29 +31,29 @@ While working for Move4Mobile I developed native apps with Swift and I did this 
 
 ---
 
-#### PHP Software Engineer @ [Medido](https://medido.com/en/) (Zwolle, The Netherlands)
+#### PHP Software Engineer @ [Medido](https://medido.com/en/) 
 ##### June 2019 - May 2021<br>
 For Medido I maintained a [portal](http://portal.medido.com) where I learned to work with the framework Symfony/Slim, MVC, PHPUnit tests and MySQL/MariaDB. I developed new features and bug fixes
 
 
 ## Internships
-#### System manager @ [Speak](http://speak.nl) (Heerenveen, The Netherlands)
+#### System manager @ [Speak](http://speak.nl)
 ##### January 2019 - May 2022<br>
 ---
-#### System manager @ [van Kerkvoorde & Hollander](https://kerkvoorde.nl) (Steenwijk, The Netherlands)
+#### System manager @ [van Kerkvoorde & Hollander](https://kerkvoorde.nl)
 ##### January 2019 - May 2022<br>
 
 ## Education
-#### Bachelor's degree - Software Engineering @ Windesheim (Zwolle, The Netherlands)
+#### [Bachelor's degree - Software Engineering @ Windesheim](https://www.windesheim.nl/opleidingen/deeltijd/bachelor/hbo-ict)
 September 2019 - June 2023
 
 ---
-#### System Manager @ Deltion College (Zwolle, The Netherlands)
+#### [Expert IT Systems and Security @ Deltion College](https://www.deltion.nl/opleidingen/expert-it-systems-and-security)
 September 2016 - June 2019
 
 
 ## Extra
-#### Weekend Floor Manager @ McDonalds (Steenwijk, The Netherlands)
+#### Weekend Floor Manager @ McDonalds (The Netherlands)
 
 ## Skills
 ### Technical skills
