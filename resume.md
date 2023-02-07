@@ -3,10 +3,6 @@ Software Engineer<br>
 Located in The Netherlands
 
 ## Experience
-#### iOS Software Engineer @ [iotspot](https://www.iotspot.co/) <br>
-##### January 2023 - _now_ <br>
-
----
 
 #### Software Engineer @ [WeAreReasonablePeople](https://wearereasonablepeople.com/) <br>
 ##### September 2022 - December 2022<br>
