@@ -2,7 +2,7 @@
 
 My name is Merdin, a passionate Software Engineer. 
 
-👨‍💻 I’m currently working as an iOS Software Engineer @ [iotspot](http://iotspot.co). 
+👨‍💻 I’m currently working as an iOS Software Engineer 
 
 📚 To improve myself as a professional Software Engineer I’m following the [iOS Lead Essentials program](https://iosacademy.essentialdeveloper.com/p/ios-lead-essentials/).
 
