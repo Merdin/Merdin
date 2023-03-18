@@ -57,14 +57,32 @@ For Medido I maintained a [portal](http://portal.medido.com) where I learned to 
 
 ## Skills
 ### Technical skills
-Swift, SwiftUI, xCode, Clean Swift, Alamofire, PromiseKit, UIKit, Charles Proxy, Sherlock, Applivery, Testflight <br>
-Flutter <br>
-PHP, NestJS, TypeScript, React, Next.js, Javascript, Laravel, GoHugo, Bash, jQuery, TailwindCSS, (Laravel) Livewire, Python, C#, .NET Core, Java, Slim v2 Framework, Symfony, PHPUnit <br>
-MySQL/MariaDB, Firebase, Realm <br>
-Git, AWS Cognito, NX Workspace, Heroku, Docker <br>
-Azure DevOps, PHPStorm, Visual Studio Code, Jira, GitHub, Azure DevOps, Bitrise, Android Studio <br>
-Abstract, Sketch, Figma <br>
+#### Languages
+Swift, SwiftUI, Flutter, PHP, Nest.js, React.js, Next.js, Javascript, Laravel, jQuery, GoHugo, Bash, TailwindCSS, Livewire, Python, C#, Java.
+
+#### Architecture
+Clean Architecture, Test Driven Development, MVC, MVP, MVVM, [Clean Swift](https://clean-swift.com), UML (or diagrams in general).
+
+#### Databases
+MySQL, Realm, Firebase, AWS Cognito
+
+#### Frameworks
+Alamofire, PromiseKit, UIKit, .NET, Slim v2, Symfony, PHPUnit
+
+#### Tools
+Git, XCode, Charles Proxy, Sherlock, Applivery, Testflight, NX Workspace, Heroku, Docker, Azure DevOps, PHPStorm, Visual Studio Code, Jira, Bitrise, Android Studio.
+
+#### Design tools
+Figma, Sketch, Abstract
+
+#### Design approaches
+
 
 ### Professional skills
+I am someone who likes to communicate fast and clear, whether this is in real life or online. I'm very mature and can take my responsibility. I have no problem in helping others and like to coach developers to achieve their best potential. 
+
 #### Languages
-Dutch, English, Bosnian, Arabic
+Dutch (Nederlands), English, Bosnian (Bosanski), Arabic
+
+
+
