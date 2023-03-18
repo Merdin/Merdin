@@ -13,7 +13,7 @@ As someone who enjoys learning, also unrelated to his work, it is necessary for 
 ##### September 2022 - December 2022<br>
 At WARP I spend most of the time designing and developing the server-side application written with TypeScript/NestJS for a start-up project. I connected the server-side application with AWS Cognito.
 
-Besides that I worked on the dashboard project build with NextJS, React, Javascript. 
+Besides that I worked on the dashboard project build with NextJS, React, Tailwind. 
 
 I worked completely remote, unless there was a need for me to be at the office.
 
