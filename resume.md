@@ -15,15 +15,15 @@ At WARP I spend most of the time designing and developing the server-side applic
 
 Besides that I worked on the dashboard project build with NextJS, React, Javascript. 
 
-99% of the time I worked remotely.
+I worked completely remote, unless there was a need for me to be at the office.
 
 ---
 
 #### iOS Software Engineer @ [Move4Mobile](http://move4mobile.com/)
 ##### September 2021 - May 2022<br>
-While working for Move4Mobile I developed native apps with Swift and I did this by maintaining 3 production apps. I shifted between the 2 apps every month and managed to deliver new features, bugfixes and ideas for the apps by myself. 
+While working for Move4Mobile I developed native apps with Swift and I did this by maintaining a non-production app for 6 months and shift between 2 production apps to deliver new features, fix bugs and add ideas for the apps by myself. 
 
-90% of the time I worked remotely.
+I worked completely remote, and would be at the office for some meetings.
 
 #### Projects
 - [Timing](https://apps.apple.com/nl/app/timing-app/id783555866)
@@ -35,7 +35,6 @@ While working for Move4Mobile I developed native apps with Swift and I did this 
 #### PHP Software Engineer @ [Medido](https://medido.com/en/) 
 ##### June 2019 - May 2021<br>
 For Medido I maintained a [portal](http://portal.medido.com) where I learned to work with the framework Symfony/Slim, MVC, PHPUnit tests and MySQL/MariaDB. I developed new features and bug fixes
-
 
 ## Internships
 #### System manager @ [Speak](http://speak.nl)
