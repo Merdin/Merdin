@@ -41,11 +41,11 @@ For Medido I maintained a [portal](http://portal.medido.com) where I learned to 
 
 ## Education
 #### [Bachelor's degree - Software Engineering @ Windesheim](https://www.windesheim.nl/opleidingen/deeltijd/bachelor/hbo-ict)
-September 2019 - June 2023
+2019 - 2023
 
 ---
 #### [Expert IT Systems and Security @ Deltion College](https://www.deltion.nl/opleidingen/expert-it-systems-and-security)
-September 2016 - June 2019
+2016 - 2019
 
 
 ## Extra
