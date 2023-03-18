@@ -34,10 +34,10 @@ For Medido I maintained a [portal](http://portal.medido.com) where I learned to 
 
 ## Internships
 #### System manager @ [Speak](http://speak.nl)
-##### January 2019 - May 2022<br>
+##### January 2019 - May 2019<br>
 ---
 #### System manager @ [van Kerkvoorde & Hollander](https://kerkvoorde.nl)
-##### January 2019 - May 2022<br>
+##### January 2018 - May 2018<br>
 
 ## Education
 #### [Bachelor's degree - Software Engineering @ Windesheim](https://www.windesheim.nl/opleidingen/deeltijd/bachelor/hbo-ict)
