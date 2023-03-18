@@ -58,16 +58,16 @@ For Medido I maintained a [portal](http://portal.medido.com) where I learned to 
 ## Skills
 ### Technical skills
 #### Languages
-Swift, SwiftUI, Flutter, PHP, Nest.js, React.js, Next.js, Javascript, Laravel, jQuery, GoHugo, Bash, TailwindCSS, Livewire, Python, C#, Java.
+Swift, Dart, PHP, Javascript, Bash, CSS, Python, C#, Java.
 
 #### Architecture
-Clean Architecture, Test Driven Development, MVC, MVP, MVVM, [Clean Swift](https://clean-swift.com), UML (or diagrams in general).
+Clean Architecture, Test Driven Development, MVC, MVP, MVVM, [Clean Swift](https://clean-swift.com), [UML](https://www.omg.org/spec/UML) (or diagrams in general).
 
 #### Databases
-MySQL, Realm, Firebase, AWS Cognito
+[MySQL](https://www.mysql.com), [Realm](https://realm.io), [Firebase](https://firebase.google.com), [AWS Cognito](https://aws.amazon.com/cognito/)
 
-#### Frameworks
-Alamofire, PromiseKit, UIKit, .NET, Slim v2, Symfony, PHPUnit
+#### Frameworks & Libraries
+[Alamofire](https://github.com/Alamofire/Alamofire), [PromiseKit](https://github.com/mxcl/PromiseKit), [UIKit](https://developer.apple.com/documentation/uikit), [.NET](https://learn.microsoft.com/en-us/dotnet/core/introduction), [Slim v2](https://www.slimframework.com/docs/v2/), [Symfony](https://symfony.com), [PHPUnit](https://phpunit.de), [GoHugo](https://gohugo.io), [TailwindCSS](https://tailwindcss.com), [Laravel](https://laravel.com), [Livewire](https://laravel-livewire.com), [Flutter](https://flutter.dev), [React.js](https://react.dev), [NestJS](https://nestjs.com), [Next.js](https://nextjs.org), [jQuery](https://jquery.com), [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 
 #### Tools
 Git, XCode, Charles Proxy, Sherlock, Applivery, Testflight, NX Workspace, Heroku, Docker, Azure DevOps, PHPStorm, Visual Studio Code, Jira, Bitrise, Android Studio.
