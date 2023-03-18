@@ -75,9 +75,6 @@ Git, XCode, Charles Proxy, Sherlock, Applivery, Testflight, NX Workspace, Heroku
 #### Design tools
 Figma, Sketch, Abstract
 
-#### Design approaches
-
-
 ### Professional skills
 I am someone who likes to communicate fast and clear, whether this is in real life or online. I'm very mature and can take my responsibility. I have no problem in helping others and like to coach developers to achieve their best potential. 
 
