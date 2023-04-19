@@ -11,5 +11,5 @@ As someone who enjoys learning, also unrelated to his work, it is necessary for 
 📚 To improve myself as a professional Software Engineer I’m following the [Lead Essentials program](https://iosacademy.essentialdeveloper.com/p/ios-lead-essentials/).
 
 ## Experience
-Of course you want to learn more about [my professional experience](https://github.com/Merdin/Merdin/blob/master/resume.md).
+Of course you want to learn more about [my professional experience](https://github.com/Merdin/resume).
 
