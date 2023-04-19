@@ -1,6 +1,6 @@
 # Welcome to my profile! 👋🏻 
 
-My name is [Merdin](https://www.linkedin.com/in/merdindev), a passionate Software Engineer.
+My name is Merdin, a passionate Software Engineer.
 
 I've been interested in tech since I was born. Started learning to code since 12 years old. I have a passion for building well-engineered and beautiful applications.
 
