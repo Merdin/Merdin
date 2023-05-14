@@ -13,3 +13,7 @@ As someone who enjoys learning, also unrelated to his work, it is necessary for 
 ## Experience
 Of course you want to learn more about [my professional experience](https://github.com/Merdin/resume).
 
+## Personal projects
+### Awqati
+[Awqati.nl](https://awqati.nl) is an app which I develop. The goal of the app is to provide the correct prayer times to the users per city. There are different similar apps, but most of these show incorrect prayer times due to automated calculations. For this app we calculate the prayer times manually and store them inside the app.
+The app is build with Flutter and Firebase is used for storage, hosting and authorization.
