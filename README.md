@@ -16,4 +16,4 @@ Of course you want to learn more about [my professional experience](https://gith
 ## Personal projects
 ### Awqati
 [Awqati.nl](https://awqati.nl) is an app which I develop. The goal of the app is to provide the correct prayer times to the users per city. You can find similar apps, but most of these show incorrect prayer times due to automated calculations. For this app we calculate the prayer times manually and store them inside the app.
-The app is build with Flutter and Firebase is used for storage, hosting and authorization.
+The app is built with Flutter and Firebase is used for storage, hosting and authorization.
