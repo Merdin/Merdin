@@ -11,4 +11,3 @@ As someone who enjoys learning, also unrelated to his work, it is necessary for 
 ## Resume
 You can send me an [email](mailto:job@merdin.dev) to see my 3 years of Software Engineering experience.
 
-[My LinkedIn is here](https://www.linkedin.com/in/merdin/)
