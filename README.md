@@ -9,5 +9,5 @@ As someone who enjoys learning, also unrelated to his work, it is necessary for 
 📚 To improve myself as a professional Software Engineer I’m following the [Lead Essentials program](https://iosacademy.essentialdeveloper.com/p/ios-lead-essentials/).
 
 ## Resume
-You can view my [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/merdin/) to view my experience or send me a message to receive my resume.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/merdin/) Connect with me to view my experience or send me a message to receive my resume.
 
