@@ -4,11 +4,7 @@ My name is Merdin, a lifelong learner.
 
 ## Lead Essentials Program
 
-I'm following the Lead Essentials Program to become a complete senior software engineer.
-
-[![Lead Essentials Program](
-https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://iosacademy.essentialdeveloper.com/p/ios-lead-essentials/)
-
+I'm following the [Lead Essentials Program](https://iosacademy.essentialdeveloper.com/p/ios-lead-essentials) to become a complete senior software engineer.
 
 ## Resume
 Connect with me to view my experience or send me a message to receive my resume.
