@@ -8,8 +8,8 @@ I'm following the [Lead Essentials Program](https://iosacademy.essentialdevelope
 
 ## My Apps
 
-[App Store](https://apps.apple.com/nl/developer/merdin-kahrimanovic/id1732308905)
-[Play Store](https://play.google.com/store/apps/developer?id=Merdin+Kahrimanovi%C4%87)
+[![App Store](https://img.shields.io/badge/My%20iOS%20apps-blue?style=for-the-badge&logo=apple)](https://apps.apple.com/nl/developer/merdin-kahrimanovic/id1732308905)
+[![Play Store](https://img.shields.io/badge/My%20Android%20apps-green?style=for-the-badge&logo=android)](https://play.google.com/store/apps/developer?id=Merdin+Kahrimanovi%C4%87)
 
 ## Resume
 Connect with me to view my experience or send me a message to receive my resume.
