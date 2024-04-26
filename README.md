@@ -6,6 +6,11 @@ My name is Merdin, a lifelong learner.
 
 I'm following the [Lead Essentials Program](https://iosacademy.essentialdeveloper.com/p/ios-lead-essentials) to become a complete senior software engineer.
 
+## My Apps
+
+[App Store](https://apps.apple.com/nl/developer/merdin-kahrimanovic/id1732308905)
+[Play Store](https://play.google.com/store/apps/developer?id=Merdin+Kahrimanovi%C4%87)
+
 ## Resume
 Connect with me to view my experience or send me a message to receive my resume.
 
