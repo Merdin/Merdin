@@ -7,7 +7,7 @@ My name is Merdin, a lifelong learner.
 
 [Portfolio](https://github.com/merdin/portfolio)
 
-## My Apps
+## Production Apps
 
 [![App Store](https://img.shields.io/badge/My%20iOS%20apps-blue?style=for-the-badge&logo=apple)](https://apps.apple.com/nl/developer/merdin-kahrimanovic/id1732308905)
 [![Play Store](https://img.shields.io/badge/My%20Android%20apps-green?style=for-the-badge&logo=android)](https://play.google.com/store/apps/developer?id=Merdin+Kahrimanovi%C4%87)
