@@ -5,7 +5,7 @@ My name is Merdin, a lifelong learner.
 ## Experience
 [Resume](https://flowcv.com/resume/bchss6higo)
 
-[Portfolio](https://github.com/merdin/portfolio
+[Portfolio](https://github.com/merdin/portfolio)
 
 ## My Apps
 
