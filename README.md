@@ -2,8 +2,8 @@
 
 My name is Merdin, a lifelong learner.
 
-## Experience
-[Portfolio](https://github.com/merdin/portfolio)
+## Portfolio
+[You can find my portfolio here](https://github.com/merdin/portfolio). My portfolio is not filled up yet with the projects I want to do and/or finish. I have more experience than what is shown on my portfolio.
 
 ## Production Apps
 
